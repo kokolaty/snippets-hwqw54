@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kokolaty.github.io/snippets-hwqw54/sitemap.xml
